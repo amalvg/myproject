@@ -1,0 +1,5 @@
+file1=open('demo.txt','a')
+# file1.write('hai amal')
+# print(file1.read())
+file1.write('how are you?')
+file1.close()
